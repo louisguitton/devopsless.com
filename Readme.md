@@ -23,7 +23,12 @@ open https://devopsless.com
 ```
 
 At this point the site is ready. But you can futher configure it,
-either using the Worpdress admin panel.
+either using the Worpdress admin panel or the Wordress CLI.
+
+```sh
+sh wordpress_automation.sh
+open https://devopsless.com/wp-admin
+```
 
 When you're done having fun and wasting money, you can run:
 
